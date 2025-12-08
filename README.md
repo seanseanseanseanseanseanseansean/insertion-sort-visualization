@@ -16,7 +16,7 @@ Abstraction: The details I have decided to show the user are: the mechanics of t
 
 Algorithm design: The user will input the length of the array that they wish to see in the animation and then click the "run" button. Once this happens, it will call the insertion sort function that outputs a figure at each frame displaying the current state of the sorting algorithm.
 
-Flowchart: (project_flowchart.pdf)
+Flowchart: [(project_flowchart.pdf)](https://github.com/seanseanseanseanseanseanseansean/insertion-sort-visualization/blob/main/project_flowchart.pdf)
 
 
 How to run:
