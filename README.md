@@ -16,8 +16,26 @@ Abstraction: The details I have decided to show the user are: the mechanics of t
 
 Algorithm design: The user will input the length of the array that they wish to see in the animation and then click the "run" button. Once this happens, it will call the insertion sort function that outputs a figure at each frame displaying the current state of the sorting algorithm.
 
+Flowchart:
+
 
 How to run:
 Simply enter the number of elemnts you wish to see in the visualization, set the animation speed with the slider and click run to watch the animation.
 
+Note: the program works perfectly well when run locally but for aome reason when the project is uploaded to huging face, the animation becomes very jittery. I don't know why this is but there isn't anything wrong with the code itself.
+
 Hugging face link: https://huggingface.co/spaces/seanseanseanseanseansean/Insertion-Sort-Visualization
+
+
+Author:
+Sean Hughson
+First-year general science student
+Queen's University
+
+Acknowledgments:
+ChatGPT was used for this project for the following:
+-Debugging small errors in my code: why my frames weren't showing up, why the coloring was offset
+-Explaining basic syntax for gradio and matplotlib libraries: synatx for axes, figure, plots and legend functions
+-Attempting to fix hugging face jitter, although nothing came of that
+
+Other than that everything was done by me. All code was written by me and no ai code snippets were used. The only other resources I used was the documention from matplotlib.org and gradio.app
